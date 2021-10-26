@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: CCVE_Medium_banner02.jpeg
 ---
 
 # Millennial

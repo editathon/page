@@ -8,11 +8,11 @@ google-ID: ''
 
 menu:
 - {name: 'About',  url: 'about'}
-- {name: 'Get ready',       url: 'get-ready'}
-- {name: 'Event mechanism', url: 'during-event'}
+- {name: 'Get ready',          url: 'get-ready'}
+- {name: 'Event mechanism',    url: 'during-event'}
 - {name: 'Learning resources', url: 'resources'}
-- {name: 'Docs',      url: 'documentation'}
-- {name: 'Contact & Acks', url: 'contact'}
+- {name: 'Docs',               url: 'documentation'}
+- {name: 'Contact & Acks',     url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

@@ -13,7 +13,7 @@ menu:
 - {name: 'Zoom',               url: 'zoom'}
 - {name: 'Discord',            url: 'discord'}
 - {name: 'Resources/Recursos', url: 'resources'}
-- {name: 'Contacts/Contactos', url: 'contact'}
+- {name: 'Contact(o)s', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

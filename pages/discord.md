@@ -9,3 +9,4 @@ permalink: /discord
 Join to our Discord event server [here](https://discord.gg/CPym5ZDHpk)
 
 ## Do you need help to get Discord?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcDqvS6-fEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

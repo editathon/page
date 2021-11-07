@@ -9,7 +9,7 @@ permalink: /zoom
 Get or use your [Zoom](https://zoom.us/signup) account...
 
 And
-#### the click the image to enter in the [meeting](https://us02web.zoom.us/meeting/register/tZcvceypqD8rHdx2YEDEoZnW0xSORWA6DSOI) for each session online is:
+#### click the image to enter in the [meeting](https://us02web.zoom.us/meeting/register/tZcvceypqD8rHdx2YEDEoZnW0xSORWA6DSOI) for each session online is:
 [![zoom logo](assets/img/zoom.png)](https://us02web.zoom.us/meeting/register/tZcvceypqD8rHdx2YEDEoZnW0xSORWA6DSOI)
 
 **important** The password will be given to the participants in our **[Discord](../discord)**

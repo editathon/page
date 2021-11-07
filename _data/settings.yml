@@ -7,13 +7,13 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Registation!',       url: 'registration'}
+- {name: 'Registation/Registro', url: 'registration'}
 ##- {name: 'Get ready',          url: 'get-ready'}
-- {name: 'Event mechanism',    url: 'during-event'}
+- {name: 'Event Mechanism/Mecánica del Evento',    url: 'during-event'}
 - {name: 'Zoom',               url: 'zoom'}
 - {name: 'Discord',            url: 'discord'}
-- {name: 'Learning resources', url: 'resources'}
-- {name: 'Contact & acks',     url: 'contact'}
+- {name: 'Resources/Recursos', url: 'resources'}
+- {name: 'Contacts/Contactos', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

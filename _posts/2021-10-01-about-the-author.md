@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About us"
+title: "About us / Acerca de nosotros"
 author: "ArturoS"
-categories: facts
+categories: about
 tags: [sample]
 image: CCVE_Medium_banner02.jpeg
 ---

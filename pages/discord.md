@@ -12,7 +12,5 @@ Join to our Discord event server [here](https://discord.gg/CPym5ZDHpk) or click 
 
 ## Do you need help to get Discord?
 <CENTER>
-<iframe width="100%" height="323" src="https://www.youtube.com/embed/kcDqvS6-fEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="322" src="https://www.youtube.com/embed/kcDqvS6-fEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </CENTER>
-
----

@@ -8,8 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'Registation!',       url: 'registration'}
-- {name: 'Get ready',          url: 'get-ready'}
+##- {name: 'Get ready',          url: 'get-ready'}
 - {name: 'Event mechanism',    url: 'during-event'}
+- {name: 'Zoom',               url: 'zoom'}
 - {name: 'Discord',            url: 'discord'}
 - {name: 'Learning resources', url: 'resources'}
 - {name: 'Contact & acks',     url: 'contact'}

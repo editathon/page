@@ -4,9 +4,10 @@ title: Discord
 permalink: /discord
 ---
 
-# Discord Server
+# [Server](https://discord.gg/CPym5ZDHpk)
 
-**Join to our Discord event server [here](https://discord.gg/CPym5ZDHpk)** or click the image
+#### **Join to our Discord event server [here](https://discord.gg/CPym5ZDHpk)**
+or click the image
 
 [![discord logo](assets/img/discord.png)](https://discord.gg/CPym5ZDHpk)
 

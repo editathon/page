@@ -7,10 +7,10 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Registation!',  url: 'https://forms.gle/71HnETqtuDGiXwok9'}
+- {name: 'Registation!',  link: 'https://forms.gle/71HnETqtuDGiXwok9'}
 - {name: 'Get ready',          url: 'get-ready'}
 - {name: 'Event mechanism',    url: 'during-event'}
-- {name: 'Discord',               url: 'https://discord.gg/CPym5ZDHpk'}
+- {name: 'Discord',            link: 'https://discord.gg/CPym5ZDHpk'}
 - {name: 'Learning resources', url: 'resources'}
 - {name: 'Contact & Acks',     url: 'contact'}
 

@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Registation/Registro', url: 'registration'}
 ##- {name: 'Get ready',          url: 'get-ready'}
-- {name: 'Event Mechanism/Mecánica del Evento',    url: 'during-event'}
+- {name: 'Mechanism/Mecánica',    url: 'during-event'}
 - {name: 'Zoom',               url: 'zoom'}
 - {name: 'Discord',            url: 'discord'}
 - {name: 'Resources/Recursos', url: 'resources'}

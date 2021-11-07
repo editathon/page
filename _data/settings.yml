@@ -16,8 +16,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/'}
-- {icon: 'instagram', link:  'https://instagram.com/'}
+- {icon: 'twitter', link:    'https://twitter.com/ccommons_ve'}
+- {icon: 'instagram', link:  'https://www.instagram.com/ccommons_ve/'}
 - {icon: 'envelope', link:   'mailto:editathon.nutrition@gmail.com'}
 
 # Customize site text

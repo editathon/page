@@ -4,7 +4,7 @@ title: Zoom
 permalink: /zoom
 ---
 
-# Zoom account
+# Account
 
 Get or use your [Zoom](https://zoom.us/signup) account...
 

@@ -10,10 +10,11 @@ Join to Zoom [here](https://zoom.us/signup) or click the image
 
 ---
 
-And at the link to the meeting for each session is:
+And
+### the link to the meeting for each session online is:
 [![zoom logo](assets/img/zoom.png)](https://us02web.zoom.us/meeting/register/tZcvceypqD8rHdx2YEDEoZnW0xSORWA6DSOI)
 
-**importnat** The password will be given to the participants in our **[Discord](../discord)**
+**important** The password will be given to the participants in our **[Discord](../discord)**
 
 ---
 

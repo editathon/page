@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Registration
+category: resources
 permalink: /registration
 ---
 

@@ -6,10 +6,6 @@ permalink: /during-event
 
 # of the Event / del Evento
 
-[![poster-cc-ve](assets/img/EDITATHON_2021-English-2sessions.png)](.)
-
----
-
 [![slide 1](assets/img/slides/1.png)](.)
 
 ---

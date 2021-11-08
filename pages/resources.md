@@ -5,6 +5,8 @@ category: resources
 permalink: /resources
 ---
 
+[![poster-cc-ve](assets/img/EDITATHON_2021-English-2sessions.png)](.)
+
 ---
 
 ## License

@@ -3,7 +3,7 @@ layout: post
 title: "About us / Acerca de nosotros"
 author: "ArturoS"
 categories: about
-tags: [sample]
+tags: [about,contact]
 image: CCVE_Medium_banner02.jpeg
 ---
 

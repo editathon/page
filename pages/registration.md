@@ -14,3 +14,7 @@ The **[form](https://forms.gle/71HnETqtuDGiXwok9)** takes  less than 2 minutes a
 [![Google form](assets/img/google-form.png)](https://forms.gle/71HnETqtuDGiXwok9)
 
 ---
+
+## License
+
+Open sourced under the [MIT license](https://github.com/edithaton/page/LICENSE.md).

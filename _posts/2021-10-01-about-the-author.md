@@ -7,6 +7,13 @@ tags: [about,contact]
 image: Banner_1-01_color-01_logo-01.png
 ---
 
+## What is the idea?
+An online Editathon where members of the diverse chapters, together with academic and editors’ communities, can review, modify and enhance current Wikipedia pages related to subjects in the field of human nutrition and related subjects.
+
+---
+
+## ¿Cuál es la idea?
+Un Editathon en línea donde los miembros de los diversos capítulos, junto con las comunidades académicas y de editores, pueden revisar, modificar y mejorar páginas actuales de Wikipedia relacionadas con temas en el campo de la nutrición humana y temas relacionados.
 
 ---
 

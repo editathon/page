@@ -4,7 +4,7 @@ title: "About us / Acerca de nosotros"
 author: "ArturoS"
 categories: about
 tags: [about,contact]
-image: CCVE_Medium_banner02.jpeg
+image: Banner_1-01_color-01_logo-01.png
 ---
 
 

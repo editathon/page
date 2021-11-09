@@ -6,7 +6,7 @@ permalink: /contact
 
 # Organisers and teams
 
-<br></br>
+<br>
 
 | **the Program in International Nutrition in the Division of Nutritional Sciences** | **Creative Commons Venezuela Chapter** |
 |    :---:      |           :---:           |

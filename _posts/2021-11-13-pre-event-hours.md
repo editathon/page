@@ -9,8 +9,8 @@ image: Banner_4-01_logo-01.png
 
 # before / antes
 
-To help the participants, we will be holding **"Office Hours"** to reply any question and get ready for the event.
-What this means? That we will be on **[Discord](../page/discord)** for 90 min this coming Saturday and Monday. Come and Ask Us Anything related to the event!
+To help the participants, we will be holding **"Office Hours"** to help to reply to any questions and get ready for the event.
+What does this mean? That we will be on **[Discord](../page/discord)** for 90 min this coming Saturday and Monday. Come and Ask Us Anything related to the event!
 
 ***
 

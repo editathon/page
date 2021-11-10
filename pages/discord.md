@@ -16,7 +16,7 @@ o has click en la imagen
 
 ---
 
-## Do you need help to get Discord? /  / Necesitas saber como obtener Discord?
+### Do you need help to get Discord? / Necesitas saber como obtener Discord?
 <CENTER>
 <iframe width="100%" height="322" src="https://www.youtube.com/embed/kcDqvS6-fEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </CENTER>

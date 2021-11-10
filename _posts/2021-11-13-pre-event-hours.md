@@ -20,8 +20,8 @@ Para ayudar a los participantes, realizaremos **"Horas de Oficina"** para respon
 
 | **Office Hours** | **Horas de Oficina** |
 |            :---:             |               :---:              |
-| **Saturday 13th**: 5pm FL, USA / 11pm Geneva, CH | **Sábado 13**: 6pm CCS, Ven, 11pm Ginebra, CH |
-| **Monday 15th**: 5pm FL, USA / 11pm Geneva, CH | **Lunes 15**: 6pm CCS, Ven, 11pm Ginebra, CH |
+| **Saturday 13th**: 5pm FL, USA / 11pm Geneva, CH | **Sábado 13**: 6pm CCS, Ven / 11pm Ginebra, CH |
+| **Monday 15th**: 5pm FL, USA / 11pm Geneva, CH | **Lunes 15**: 6pm CCS, Ven / 11pm Ginebra, CH |
 
 <br>
 

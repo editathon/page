@@ -17,9 +17,11 @@ Get or use your [Zoom](https://zoom.us/signup) account / Obten tu cuenta en [Zoo
 
 ---
 
-### **important** The password will be given to the participants in our **[Discord](../discord)**
+### **important**
+The password will be given to the participants in our **[Discord](../discord)**
 
-### **importante** el password de acceso se les entregará a los participantes en nuestro **[Discord](../discord)**
+### **importante**
+El password de acceso se les entregará a los participantes en nuestro **[Discord](../discord)**
 
 ---
 

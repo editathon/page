@@ -18,7 +18,7 @@ Para ayudar a los participantes, realizaremos **"Horas de Oficina"** para respon
 ¿Qué significa? Que estaremos en **[Discord](../page/discord)** durante **90 minutos** este sábado y lunes. ¡Ven y pregúntanos cualquier cosa relacionada con el evento!
 
 
-| <h2>Office Hours</h2> | <h2>Horas de Oficina</h2> |
+| **Office Hours** | **Horas de Oficina** |
 |            :---:             |               :---:              |
 | **Saturday 13th**: 5pm FL, USA / 11pm Geneva, CH | **Sábado 13**: 6pm CCS, Ven, 11pm Ginebra, CH |
 | **Monday 15th**: 5pm FL, USA / 11pm Geneva, CH | **Lunes 15**: 6pm CCS, Ven, 11pm Ginebra, CH |

@@ -6,6 +6,18 @@ permalink: /during-event
 
 # of the Event / del Evento
 
+## Quick explanation :)
+
+<iframe width="100%" height="334" src="https://www.youtube.com/embed/_uxlxNPLhKQ?cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Explicación rápida :)
+
+<iframe width="100%" height="334" src="https://www.youtube.com/embed/Q-9c73J-UPc?cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 [![slide 1](assets/img/slides/1.png)](.)
 
 ---

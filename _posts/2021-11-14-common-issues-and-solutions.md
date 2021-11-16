@@ -96,7 +96,7 @@ See [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style](https://en.wikiped
 * [https://en.wikipedia.org/wiki/Wikipedia:External_links](https://en.wikipedia.org/wiki/Wikipedia:External_links)
 
 * [https://en.wikipedia.org/wiki/Help:Footnotes](https://en.wikipedia.org/wiki/Help:Footnotes)
-* 
+
 * [https://en.wikipedia.org/wiki/Help:Category](https://en.wikipedia.org/wiki/Help:Category)
 
 ---

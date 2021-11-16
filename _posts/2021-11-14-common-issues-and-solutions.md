@@ -11,7 +11,7 @@ image: Banner_4-01_logo-01.png
 
 ## Plantillas
 plantilla **\{\{wikificar\}\}** : se coloca esta etiqueta al inicio de un artículo o sección que de forma notoria no cumpla con el Manual de estilo.
-https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo
+Ver [https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo)
 
 
 ## ¿Por qué borraron mi página en Wikipedia?
@@ -43,12 +43,60 @@ https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo
 
 ## Plantillas
 
-* https://es.m.wikipedia.org/wiki/Wikipedia:Manual_de_estilo
+* [https://es.m.wikipedia.org/wiki/Wikipedia:Manual_de_estilo](https://es.m.wikipedia.org/wiki/Wikipedia:Manual_de_estilo)
 
-* https://es.m.wikipedia.org/wiki/Wikipedia:Enlaces_externos
+* [https://es.m.wikipedia.org/wiki/Wikipedia:Enlaces_externos](https://es.m.wikipedia.org/wiki/Wikipedia:Enlaces_externos)
 
-* https://es.wikipedia.org/wiki/Ayuda:C%C3%B3mo_referenciar
+* [https://es.wikipedia.org/wiki/Ayuda:C%C3%B3mo_referenciar](https://es.wikipedia.org/wiki/Ayuda:C%C3%B3mo_referenciar)
 
-* https://es.wikipedia.org/wiki/Ayuda:Categor%C3%ADa
+* [https://es.wikipedia.org/wiki/Ayuda:Categor%C3%ADa](https://es.wikipedia.org/wiki/Ayuda:Categor%C3%ADa)
+
+---
+
+
+# Frequent problems when editing on Wikipedia
+
+## Templates
+** \ {\ {wikify \} \} ** template: this tag is placed at the beginning of an article or section that notoriously does not comply with the Style Manual.
+See [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+
+
+## Why was my Wikipedia page deleted?
+* Because the sources given by the editor cannot be verified. Therefore, it is crucial to place reliable sources.
+* Because they are considered plagiarism or infringe copyright policies
+* Because they are not edited from a neutral point of view. Neutrality is to show all possible relevant points of view as they are so that each reader adopts the opinion they prefer.
+* Because it can be against ideologies, political movements, religions, etc.
+* Because it can be considered self-promotion, propaganda, publicity, or much unnecessary praise, it prevents having neutral wording.
+
+---
+
+## Tips for writing on Wikipedia
+* Reference each statement as much as possible
+* Use reliable, serious and independent sources. Don't use blogs as references
+* Any change you make must have a justification, so you must write a few words of what was modified in the "summary"
+* Do not plagiarize
+* Do not advertise or advertise
+* Maintain an encyclopedic style: introduction of the idea, development of the different aspects to consider, and finally the conclusion.
+* Avoid the use of paragraphs unless they provide some information or clarification that is considered essential.
+* When the article has more than 4 or 5 long paragraphs, it is recommended to divide it into sections. Use capital letters only for the initials of the proper names and for the first letter of the title.
+* Section titles should not use bold or italic letters unless something inside the title of a section should be italicized.
+* The separation between paragraphs must be a single blank line. If no line is left blank, the system will not recognize the paragraph change.
+* When naming a person, avoid the use of courtesy treatments such as Mr., Mrs., Mr., Mrs., Your Majesty, Her Excellency, etc. Likewise, professional names such as Dr., Engineer, etc., should not be used.
+* Avoid writing currently or now because it may become obsolete; it is better to replace it by the date
+* Do not make pure definitions as if it were a dictionary
+* The number of external links in an article should be kept as low as possible.
+
+---
+
+## Templates
+
+
+* [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+
+* [https://en.wikipedia.org/wiki/Wikipedia:External_links](https://en.wikipedia.org/wiki/Wikipedia:External_links)
+
+* [https://en.wikipedia.org/wiki/Help:Footnotes](https://en.wikipedia.org/wiki/Help:Footnotes)
+* 
+* [https://en.wikipedia.org/wiki/Help:Category](https://en.wikipedia.org/wiki/Help:Category)
 
 ---

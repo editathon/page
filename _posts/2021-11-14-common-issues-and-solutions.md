@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Common issues / problemas comunes"
 author: "ArturoS"
 categories: about
@@ -10,7 +10,7 @@ image: Banner_4-01_logo-01.png
 # Problemas frecuentes al editar en Wikipedia
 
 ## Plantillas
-plantilla `{{wikificar}}`:  se coloca esta etiqueta al inicio de un artículo o sección que de forma notoria no cumpla con el Manual de estilo.
+plantilla **{{wikificar}}** : se coloca esta etiqueta al inicio de un artículo o sección que de forma notoria no cumpla con el Manual de estilo.
 https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo
 
 

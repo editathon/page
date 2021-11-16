@@ -57,7 +57,7 @@ Ver [https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo](https://es.wikipe
 # Frequent problems when editing on Wikipedia
 
 ## Templates
-** \ {\ {wikify \} \} ** template: this tag is placed at the beginning of an article or section that notoriously does not comply with the Style Manual.
+**\{\{wikify\}\}** template: this tag is placed at the beginning of an article or section that notoriously does not comply with the Style Manual.
 See [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
 
 

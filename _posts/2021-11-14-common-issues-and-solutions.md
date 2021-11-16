@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Common issues / problemas comunes"
+author: "ArturoS"
+categories: about
+tags: [about,contact]
+image: Banner_4-01_logo-01.png
+---
+
 # Problemas frecuentes al editar en Wikipedia
 
 ## Plantillas
